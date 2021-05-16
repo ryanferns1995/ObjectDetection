@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>367_jpg.rf.c3c9983cd966b9c4e3d956e519c1f778.jpg</filename>
+	<path>367_jpg.rf.c3c9983cd966b9c4e3d956e519c1f778.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lychee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>26</xmin>
+			<xmax>81</xmax>
+			<ymin>140</ymin>
+			<ymax>195</ymax>
+		</bndbox>
+	</object>
+</annotation>

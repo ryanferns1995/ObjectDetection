@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>766_jpg.rf.48028c116eddf8beb7d6a624e69246c1.jpg</filename>
+	<path>766_jpg.rf.48028c116eddf8beb7d6a624e69246c1.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Passion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>218</xmin>
+			<xmax>292</xmax>
+			<ymin>390</ymin>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+</annotation>

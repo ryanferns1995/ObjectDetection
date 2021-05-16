@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>983_jpg.rf.9663e54f2d0cda71d3a521e968d58dbb.jpg</filename>
+	<path>983_jpg.rf.9663e54f2d0cda71d3a521e968d58dbb.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Raspberry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>201</xmin>
+			<xmax>307</xmax>
+			<ymin>122</ymin>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

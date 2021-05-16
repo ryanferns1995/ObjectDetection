@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>888_jpg.rf.f5a0fef2b1f7359a026c7a5951db6b2c.jpg</filename>
+	<path>888_jpg.rf.f5a0fef2b1f7359a026c7a5951db6b2c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Avocado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>232</xmin>
+			<xmax>290</xmax>
+			<ymin>164</ymin>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

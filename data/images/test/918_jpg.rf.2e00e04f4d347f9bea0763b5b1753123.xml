@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>918_jpg.rf.2e00e04f4d347f9bea0763b5b1753123.jpg</filename>
+	<path>918_jpg.rf.2e00e04f4d347f9bea0763b5b1753123.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pepino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>11</xmin>
+			<xmax>148</xmax>
+			<ymin>175</ymin>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

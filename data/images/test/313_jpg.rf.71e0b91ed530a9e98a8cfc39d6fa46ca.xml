@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>313_jpg.rf.71e0b91ed530a9e98a8cfc39d6fa46ca.jpg</filename>
+	<path>313_jpg.rf.71e0b91ed530a9e98a8cfc39d6fa46ca.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pepper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>111</xmin>
+			<xmax>163</xmax>
+			<ymin>30</ymin>
+			<ymax>82</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>965_jpg.rf.4c927de31e9470c58603f5b469630879.jpg</filename>
+	<path>965_jpg.rf.4c927de31e9470c58603f5b469630879.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nut</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>156</xmin>
+			<xmax>243</xmax>
+			<ymin>367</ymin>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+</annotation>

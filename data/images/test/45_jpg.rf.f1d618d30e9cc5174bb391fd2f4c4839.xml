@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>45_jpg.rf.f1d618d30e9cc5174bb391fd2f4c4839.jpg</filename>
+	<path>45_jpg.rf.f1d618d30e9cc5174bb391fd2f4c4839.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Huckleberry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>89</xmin>
+			<xmax>204</xmax>
+			<ymin>163</ymin>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

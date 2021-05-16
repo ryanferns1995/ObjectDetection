@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>708_jpg.rf.f323d8243c39574735595a83b0181e8b.jpg</filename>
+	<path>708_jpg.rf.f323d8243c39574735595a83b0181e8b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Beetroot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>251</xmin>
+			<xmax>333</xmax>
+			<ymin>325</ymin>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

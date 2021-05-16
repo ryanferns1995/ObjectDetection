@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>99_jpg.rf.197ef8214b5d5aff33fba3afd1dff4a6.jpg</filename>
+	<path>99_jpg.rf.197ef8214b5d5aff33fba3afd1dff4a6.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Peach</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>28</xmin>
+			<xmax>99</xmax>
+			<ymin>100</ymin>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>

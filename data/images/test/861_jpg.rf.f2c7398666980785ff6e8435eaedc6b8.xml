@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>861_jpg.rf.f2c7398666980785ff6e8435eaedc6b8.jpg</filename>
+	<path>861_jpg.rf.f2c7398666980785ff6e8435eaedc6b8.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Limes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>5</xmin>
+			<xmax>126</xmax>
+			<ymin>339</ymin>
+			<ymax>460</ymax>
+		</bndbox>
+	</object>
+</annotation>
