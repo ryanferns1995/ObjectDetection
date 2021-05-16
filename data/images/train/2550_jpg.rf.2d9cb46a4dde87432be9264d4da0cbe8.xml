@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>2550_jpg.rf.2d9cb46a4dde87432be9264d4da0cbe8.jpg</filename>
+	<path>2550_jpg.rf.2d9cb46a4dde87432be9264d4da0cbe8.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kohlrabi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>151</xmin>
+			<xmax>254</xmax>
+			<ymin>38</ymin>
+			<ymax>141</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>2851_jpg.rf.f4b9ae51070f64977bb15750be7a8ac7.jpg</filename>
+	<path>2851_jpg.rf.f4b9ae51070f64977bb15750be7a8ac7.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lemon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>164</xmin>
+			<xmax>298</xmax>
+			<ymin>22</ymin>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>

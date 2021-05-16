@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>55_jpg.rf.ac0567703aa46a83b7001ddd4801273c.jpg</filename>
+	<path>55_jpg.rf.ac0567703aa46a83b7001ddd4801273c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Clementine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>2</xmin>
+			<xmax>58</xmax>
+			<ymin>202</ymin>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+</annotation>

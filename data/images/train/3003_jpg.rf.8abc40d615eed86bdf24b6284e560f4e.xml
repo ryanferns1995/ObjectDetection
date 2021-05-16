@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>3003_jpg.rf.8abc40d615eed86bdf24b6284e560f4e.jpg</filename>
+	<path>3003_jpg.rf.8abc40d615eed86bdf24b6284e560f4e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Grapefruit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>203</xmin>
+			<xmax>280</xmax>
+			<ymin>359</ymin>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+</annotation>

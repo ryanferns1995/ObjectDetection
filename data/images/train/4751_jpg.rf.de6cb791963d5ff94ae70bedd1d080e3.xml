@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>4751_jpg.rf.de6cb791963d5ff94ae70bedd1d080e3.jpg</filename>
+	<path>4751_jpg.rf.de6cb791963d5ff94ae70bedd1d080e3.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cherry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>249</xmin>
+			<xmax>369</xmax>
+			<ymin>360</ymin>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

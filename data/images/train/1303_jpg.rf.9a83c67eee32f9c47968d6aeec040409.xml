@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>1303_jpg.rf.9a83c67eee32f9c47968d6aeec040409.jpg</filename>
+	<path>1303_jpg.rf.9a83c67eee32f9c47968d6aeec040409.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Guava</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>255</xmin>
+			<xmax>359</xmax>
+			<ymin>415</ymin>
+			<ymax>519</ymax>
+		</bndbox>
+	</object>
+</annotation>

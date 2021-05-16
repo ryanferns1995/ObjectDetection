@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>1656_jpg.rf.93f495fe8b734efd873bf2e661ba4d26.jpg</filename>
+	<path>1656_jpg.rf.93f495fe8b734efd873bf2e661ba4d26.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kumquats</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>156</xmin>
+			<xmax>224</xmax>
+			<ymin>174</ymin>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>

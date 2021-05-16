@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>4643_jpg.rf.1143579ebabbe4c4687ad3f5cb551e59.jpg</filename>
+	<path>4643_jpg.rf.1143579ebabbe4c4687ad3f5cb551e59.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Quince</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>66</xmin>
+			<xmax>198</xmax>
+			<ymin>235</ymin>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

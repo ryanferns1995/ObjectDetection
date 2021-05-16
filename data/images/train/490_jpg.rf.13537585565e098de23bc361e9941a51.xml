@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>490_jpg.rf.13537585565e098de23bc361e9941a51.jpg</filename>
+	<path>490_jpg.rf.13537585565e098de23bc361e9941a51.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pineapple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>140</xmin>
+			<xmax>215</xmax>
+			<ymin>449</ymin>
+			<ymax>524</ymax>
+		</bndbox>
+	</object>
+</annotation>

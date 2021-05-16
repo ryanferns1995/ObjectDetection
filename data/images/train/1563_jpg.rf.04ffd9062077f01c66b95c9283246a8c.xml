@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>1563_jpg.rf.04ffd9062077f01c66b95c9283246a8c.jpg</filename>
+	<path>1563_jpg.rf.04ffd9062077f01c66b95c9283246a8c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mangostan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>294</xmin>
+			<xmax>406</xmax>
+			<ymin>174</ymin>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>

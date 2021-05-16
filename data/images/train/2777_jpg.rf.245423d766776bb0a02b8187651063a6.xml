@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>2777_jpg.rf.245423d766776bb0a02b8187651063a6.jpg</filename>
+	<path>2777_jpg.rf.245423d766776bb0a02b8187651063a6.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>154</xmin>
+			<xmax>240</xmax>
+			<ymin>85</ymin>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>

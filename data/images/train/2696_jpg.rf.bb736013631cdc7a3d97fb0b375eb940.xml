@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>2696_jpg.rf.bb736013631cdc7a3d97fb0b375eb940.jpg</filename>
+	<path>2696_jpg.rf.bb736013631cdc7a3d97fb0b375eb940.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Grape</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>123</xmin>
+			<xmax>234</xmax>
+			<ymin>347</ymin>
+			<ymax>458</ymax>
+		</bndbox>
+	</object>
+</annotation>

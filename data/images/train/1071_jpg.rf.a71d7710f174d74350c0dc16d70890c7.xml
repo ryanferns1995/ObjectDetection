@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>1071_jpg.rf.a71d7710f174d74350c0dc16d70890c7.jpg</filename>
+	<path>1071_jpg.rf.a71d7710f174d74350c0dc16d70890c7.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pomegranate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>171</xmin>
+			<xmax>256</xmax>
+			<ymin>38</ymin>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+</annotation>

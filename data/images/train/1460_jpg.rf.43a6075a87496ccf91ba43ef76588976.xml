@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>1460_jpg.rf.43a6075a87496ccf91ba43ef76588976.jpg</filename>
+	<path>1460_jpg.rf.43a6075a87496ccf91ba43ef76588976.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pomelo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>278</xmin>
+			<xmax>337</xmax>
+			<ymin>416</ymin>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+</annotation>

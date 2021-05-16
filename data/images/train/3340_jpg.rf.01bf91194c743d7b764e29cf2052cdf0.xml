@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>3340_jpg.rf.01bf91194c743d7b764e29cf2052cdf0.jpg</filename>
+	<path>3340_jpg.rf.01bf91194c743d7b764e29cf2052cdf0.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Redcurrant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>252</xmin>
+			<xmax>376</xmax>
+			<ymin>63</ymin>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

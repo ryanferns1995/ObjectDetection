@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>3026_jpg.rf.c49a0dbb0c37df6240349dc85107e406.jpg</filename>
+	<path>3026_jpg.rf.c49a0dbb0c37df6240349dc85107e406.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mango</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>16</xmin>
+			<xmax>67</xmax>
+			<ymin>325</ymin>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+</annotation>

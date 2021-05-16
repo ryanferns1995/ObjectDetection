@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>4218_jpg.rf.815387c9907ddff4fcebdb489aa27836.jpg</filename>
+	<path>4218_jpg.rf.815387c9907ddff4fcebdb489aa27836.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Walnut</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>138</xmin>
+			<xmax>190</xmax>
+			<ymin>448</ymin>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>

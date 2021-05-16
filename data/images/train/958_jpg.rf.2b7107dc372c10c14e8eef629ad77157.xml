@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>958_jpg.rf.2b7107dc372c10c14e8eef629ad77157.jpg</filename>
+	<path>958_jpg.rf.2b7107dc372c10c14e8eef629ad77157.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cactus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>213</xmin>
+			<xmax>350</xmax>
+			<ymin>162</ymin>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+</annotation>

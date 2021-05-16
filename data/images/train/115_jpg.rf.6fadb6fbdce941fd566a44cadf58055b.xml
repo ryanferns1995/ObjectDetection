@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>115_jpg.rf.6fadb6fbdce941fd566a44cadf58055b.jpg</filename>
+	<path>115_jpg.rf.6fadb6fbdce941fd566a44cadf58055b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Maracuja</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>234</xmin>
+			<xmax>344</xmax>
+			<ymin>401</ymin>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+</annotation>

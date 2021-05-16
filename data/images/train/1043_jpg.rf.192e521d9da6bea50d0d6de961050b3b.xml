@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>1043_jpg.rf.192e521d9da6bea50d0d6de961050b3b.jpg</filename>
+	<path>1043_jpg.rf.192e521d9da6bea50d0d6de961050b3b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Papaya</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>247</xmin>
+			<xmax>359</xmax>
+			<ymin>434</ymin>
+			<ymax>546</ymax>
+		</bndbox>
+	</object>
+</annotation>

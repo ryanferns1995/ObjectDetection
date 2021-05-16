@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>828_jpg.rf.899315c675d181237d2a09799b040014.jpg</filename>
+	<path>828_jpg.rf.899315c675d181237d2a09799b040014.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Eggplant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>293</xmin>
+			<xmax>381</xmax>
+			<ymin>351</ymin>
+			<ymax>439</ymax>
+		</bndbox>
+	</object>
+</annotation>

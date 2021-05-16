@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>2477_jpg.rf.e1749cec25af4ff4210053fbcbb82656.jpg</filename>
+	<path>2477_jpg.rf.e1749cec25af4ff4210053fbcbb82656.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>171</xmin>
+			<xmax>288</xmax>
+			<ymin>304</ymin>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>

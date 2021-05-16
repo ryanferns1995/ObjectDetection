@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>3723_jpg.rf.41ec946dfdc61e720fe7c791ddcd0db2.jpg</filename>
+	<path>3723_jpg.rf.41ec946dfdc61e720fe7c791ddcd0db2.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mulberry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>238</xmin>
+			<xmax>369</xmax>
+			<ymin>8</ymin>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>1969_jpg.rf.24395c697b79a2efa318c7194dfd3dc6.jpg</filename>
+	<path>1969_jpg.rf.24395c697b79a2efa318c7194dfd3dc6.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cauliflower</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>136</xmin>
+			<xmax>254</xmax>
+			<ymin>190</ymin>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

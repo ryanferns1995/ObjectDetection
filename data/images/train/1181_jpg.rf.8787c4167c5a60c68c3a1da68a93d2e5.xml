@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>1181_jpg.rf.8787c4167c5a60c68c3a1da68a93d2e5.jpg</filename>
+	<path>1181_jpg.rf.8787c4167c5a60c68c3a1da68a93d2e5.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rambutan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>21</xmin>
+			<xmax>86</xmax>
+			<ymin>267</ymin>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

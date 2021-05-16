@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>2048_jpg.rf.6f55eead5ee95216671e249bae212296.jpg</filename>
+	<path>2048_jpg.rf.6f55eead5ee95216671e249bae212296.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pepper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>102</xmin>
+			<xmax>251</xmax>
+			<ymin>189</ymin>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

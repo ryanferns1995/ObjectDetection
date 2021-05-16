@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>3741_jpg.rf.030cae4941c4065428352f5c005a0eb2.jpg</filename>
+	<path>3741_jpg.rf.030cae4941c4065428352f5c005a0eb2.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apricot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>156</xmin>
+			<xmax>262</xmax>
+			<ymin>161</ymin>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

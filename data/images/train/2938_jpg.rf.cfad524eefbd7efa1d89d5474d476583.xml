@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>2938_jpg.rf.cfad524eefbd7efa1d89d5474d476583.jpg</filename>
+	<path>2938_jpg.rf.cfad524eefbd7efa1d89d5474d476583.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dates</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>129</xmin>
+			<xmax>253</xmax>
+			<ymin>385</ymin>
+			<ymax>509</ymax>
+		</bndbox>
+	</object>
+</annotation>

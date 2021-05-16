@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>3867_jpg.rf.acd3f033c9263045bf0f3ae35d3d453c.jpg</filename>
+	<path>3867_jpg.rf.acd3f033c9263045bf0f3ae35d3d453c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mandarine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>255</xmin>
+			<xmax>388</xmax>
+			<ymin>24</ymin>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>

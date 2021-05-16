@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>2159_jpg.rf.2356d84c35e59720a3504972f9d63be5.jpg</filename>
+	<path>2159_jpg.rf.2356d84c35e59720a3504972f9d63be5.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Strawberry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>131</xmin>
+			<xmax>238</xmax>
+			<ymin>87</ymin>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>

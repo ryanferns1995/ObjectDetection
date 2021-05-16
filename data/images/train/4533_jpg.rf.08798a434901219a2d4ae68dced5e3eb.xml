@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>4533_jpg.rf.08798a434901219a2d4ae68dced5e3eb.jpg</filename>
+	<path>4533_jpg.rf.08798a434901219a2d4ae68dced5e3eb.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hazelnut</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>6</xmin>
+			<xmax>148</xmax>
+			<ymin>43</ymin>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>

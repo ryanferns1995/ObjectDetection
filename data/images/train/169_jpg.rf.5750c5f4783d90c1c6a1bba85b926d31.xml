@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>169_jpg.rf.5750c5f4783d90c1c6a1bba85b926d31.jpg</filename>
+	<path>169_jpg.rf.5750c5f4783d90c1c6a1bba85b926d31.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tamarillo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>258</xmin>
+			<xmax>322</xmax>
+			<ymin>286</ymin>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+</annotation>

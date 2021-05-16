@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>425_jpg.rf.5e39470040f7b36098a4b8f41c66eb9c.jpg</filename>
+	<path>425_jpg.rf.5e39470040f7b36098a4b8f41c66eb9c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kaki</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>91</xmin>
+			<xmax>154</xmax>
+			<ymin>220</ymin>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+</annotation>

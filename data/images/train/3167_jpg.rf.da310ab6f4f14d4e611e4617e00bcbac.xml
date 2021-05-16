@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>3167_jpg.rf.da310ab6f4f14d4e611e4617e00bcbac.jpg</filename>
+	<path>3167_jpg.rf.da310ab6f4f14d4e611e4617e00bcbac.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Carambula</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>65</xmin>
+			<xmax>174</xmax>
+			<ymin>169</ymin>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

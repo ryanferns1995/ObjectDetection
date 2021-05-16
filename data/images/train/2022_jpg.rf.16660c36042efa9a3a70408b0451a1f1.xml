@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>2022_jpg.rf.16660c36042efa9a3a70408b0451a1f1.jpg</filename>
+	<path>2022_jpg.rf.16660c36042efa9a3a70408b0451a1f1.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kiwi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>184</xmin>
+			<xmax>270</xmax>
+			<ymin>319</ymin>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

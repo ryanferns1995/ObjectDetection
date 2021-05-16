@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>3052_jpg.rf.7e9e96ede1b47522f8807553ed9be5c9.jpg</filename>
+	<path>3052_jpg.rf.7e9e96ede1b47522f8807553ed9be5c9.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Granadilla</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>75</xmin>
+			<xmax>143</xmax>
+			<ymin>274</ymin>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

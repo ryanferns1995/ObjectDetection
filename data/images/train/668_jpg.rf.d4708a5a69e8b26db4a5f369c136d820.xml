@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>668_jpg.rf.d4708a5a69e8b26db4a5f369c136d820.jpg</filename>
+	<path>668_jpg.rf.d4708a5a69e8b26db4a5f369c136d820.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cocos</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>153</xmin>
+			<xmax>264</xmax>
+			<ymin>348</ymin>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

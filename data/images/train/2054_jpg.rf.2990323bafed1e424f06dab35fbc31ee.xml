@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>2054_jpg.rf.2990323bafed1e424f06dab35fbc31ee.jpg</filename>
+	<path>2054_jpg.rf.2990323bafed1e424f06dab35fbc31ee.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cactus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>23</xmin>
+			<xmax>129</xmax>
+			<ymin>7</ymin>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+</annotation>

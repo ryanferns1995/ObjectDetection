@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>4072_jpg.rf.2dc03936f7e9e170a52c0ca74cede7d1.jpg</filename>
+	<path>4072_jpg.rf.2dc03936f7e9e170a52c0ca74cede7d1.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pitahaya</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>146</xmin>
+			<xmax>266</xmax>
+			<ymin>361</ymin>
+			<ymax>481</ymax>
+		</bndbox>
+	</object>
+</annotation>

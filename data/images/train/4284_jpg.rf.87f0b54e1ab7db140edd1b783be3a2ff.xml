@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>4284_jpg.rf.87f0b54e1ab7db140edd1b783be3a2ff.jpg</filename>
+	<path>4284_jpg.rf.87f0b54e1ab7db140edd1b783be3a2ff.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>281</xmin>
+			<xmax>336</xmax>
+			<ymin>484</ymin>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+</annotation>

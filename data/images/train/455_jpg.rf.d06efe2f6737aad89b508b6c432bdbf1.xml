@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>455_jpg.rf.d06efe2f6737aad89b508b6c432bdbf1.jpg</filename>
+	<path>455_jpg.rf.d06efe2f6737aad89b508b6c432bdbf1.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tangelo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>171</xmin>
+			<xmax>297</xmax>
+			<ymin>133</ymin>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

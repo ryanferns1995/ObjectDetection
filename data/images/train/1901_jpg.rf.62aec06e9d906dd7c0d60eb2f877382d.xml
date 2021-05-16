@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>1901_jpg.rf.62aec06e9d906dd7c0d60eb2f877382d.jpg</filename>
+	<path>1901_jpg.rf.62aec06e9d906dd7c0d60eb2f877382d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>125</xmin>
+			<xmax>179</xmax>
+			<ymin>136</ymin>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>

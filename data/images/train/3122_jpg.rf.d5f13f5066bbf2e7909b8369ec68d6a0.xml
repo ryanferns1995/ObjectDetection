@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>3122_jpg.rf.d5f13f5066bbf2e7909b8369ec68d6a0.jpg</filename>
+	<path>3122_jpg.rf.d5f13f5066bbf2e7909b8369ec68d6a0.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cherry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>205</xmin>
+			<xmax>261</xmax>
+			<ymin>459</ymin>
+			<ymax>515</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>715_jpg.rf.14d3a2a4f53ebc2e5e77608b1249cd59.jpg</filename>
+	<path>715_jpg.rf.14d3a2a4f53ebc2e5e77608b1249cd59.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>257</xmin>
+			<xmax>342</xmax>
+			<ymin>238</ymin>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

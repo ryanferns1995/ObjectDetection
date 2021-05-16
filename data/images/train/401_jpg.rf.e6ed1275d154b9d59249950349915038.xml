@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>401_jpg.rf.e6ed1275d154b9d59249950349915038.jpg</filename>
+	<path>401_jpg.rf.e6ed1275d154b9d59249950349915038.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ginger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>277</xmin>
+			<xmax>371</xmax>
+			<ymin>142</ymin>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>

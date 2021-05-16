@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>2218_jpg.rf.c5cfc5b318a924789eaa65029451cd3b.jpg</filename>
+	<path>2218_jpg.rf.c5cfc5b318a924789eaa65029451cd3b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Blueberry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>257</xmin>
+			<xmax>323</xmax>
+			<ymin>366</ymin>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>

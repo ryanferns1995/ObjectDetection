@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>821_jpg.rf.6da45ee4aeac2935388ba5647163e8ce.jpg</filename>
+	<path>821_jpg.rf.6da45ee4aeac2935388ba5647163e8ce.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chestnut</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>176</xmin>
+			<xmax>309</xmax>
+			<ymin>18</ymin>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+</annotation>

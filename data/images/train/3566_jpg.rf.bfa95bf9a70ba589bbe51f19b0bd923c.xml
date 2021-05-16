@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>3566_jpg.rf.bfa95bf9a70ba589bbe51f19b0bd923c.jpg</filename>
+	<path>3566_jpg.rf.bfa95bf9a70ba589bbe51f19b0bd923c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cantaloupe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>123</xmin>
+			<xmax>200</xmax>
+			<ymin>421</ymin>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+</annotation>

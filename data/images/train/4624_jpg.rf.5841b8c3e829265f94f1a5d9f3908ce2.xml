@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>4624_jpg.rf.5841b8c3e829265f94f1a5d9f3908ce2.jpg</filename>
+	<path>4624_jpg.rf.5841b8c3e829265f94f1a5d9f3908ce2.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Physalis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>209</xmin>
+			<xmax>264</xmax>
+			<ymin>322</ymin>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>

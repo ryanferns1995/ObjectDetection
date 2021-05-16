@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>3877_jpg.rf.02bf6c134a689dd7ac116b57e22eaf3b.jpg</filename>
+	<path>3877_jpg.rf.02bf6c134a689dd7ac116b57e22eaf3b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Salak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>288</xmin>
+			<xmax>365</xmax>
+			<ymin>70</ymin>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>1356_jpg.rf.7c1b44d013c34bd13cfaf9d6d12eb6c8.jpg</filename>
+	<path>1356_jpg.rf.7c1b44d013c34bd13cfaf9d6d12eb6c8.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nectarine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>221</xmin>
+			<xmax>331</xmax>
+			<ymin>88</ymin>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

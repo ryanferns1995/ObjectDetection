@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>4160_jpg.rf.66fa9da07b0bf64d6a57a035b3ec5096.jpg</filename>
+	<path>4160_jpg.rf.66fa9da07b0bf64d6a57a035b3ec5096.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>120</xmin>
+			<xmax>215</xmax>
+			<ymin>14</ymin>
+			<ymax>109</ymax>
+		</bndbox>
+	</object>
+</annotation>
